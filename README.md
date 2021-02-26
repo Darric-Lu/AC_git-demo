@@ -1,2 +1,2 @@
 # AC_git-demo
-git exercise
+git_exercise
